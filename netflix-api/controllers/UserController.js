@@ -59,3 +59,5 @@ module.exports.removeFromLikedMovies = async (req, res) => {
     return res.json({ msg: "Error removing movie to the liked list" });
   }
 };
+
+// user controller
