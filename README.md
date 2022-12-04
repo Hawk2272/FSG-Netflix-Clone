@@ -17,5 +17,17 @@ Open integrated terminal for both the folders and run the following command in e
 npm start
 ```
 
-# website screenshots:
+## website screenshots:
+Login Page:
+![thi is img](/SS/Login.png)
+
+SignUp Page:
+![thi is img](/SS/signup.png)
+![thi is img](/SS/signup2.png)
+
+Home Page:
 ![thi is img](/SS/home_page.png)
+
+![thi is img](/SS/home_page2.png)
+My list:
+![thi is img](/SS/my_list.png)
