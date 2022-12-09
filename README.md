@@ -40,3 +40,6 @@ Home Page:
 ![thi is img](/SS/home_page2.png)
 My list:
 ![thi is img](/SS/my_list.png)
+
+
+END OF README
